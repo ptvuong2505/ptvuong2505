@@ -66,49 +66,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🏨 Hotel Management System
-
-**Description:**
-A web application for managing hotel operations, including booking rooms and services.
-
-**Features:**
-
-* User authentication (JWT / Session)
-* Room booking & availability check
-* Reservation management
-* Service integration
-
-**Tech Stack:**
-
-* ASP.NET Core / Java (Servlet/JSP)
-* SQL Server
-
----
-
-### 📊 Admin Dashboard System
-
-**Description:**
-Backend system providing APIs for admin dashboard and data management.
-
-**Features:**
-
-* Employee management
-* Authentication & authorization
-* API for data visualization
-
----
-
-## 📈 Currently Learning
-
-* Advanced ASP.NET Core
-* Spring Boot (Deep Dive)
-* System Design (Scalability, Performance)
-* Design Patterns & Clean Architecture
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -118,17 +75,6 @@ Backend system providing APIs for admin dashboard and data management.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
 </p>
-
----
-
-## 🎯 Career Objective
-
-I am looking for an internship where I can:
-
-* Contribute to real backend systems
-* Improve my coding & system design skills
-* Learn from experienced developers
-* Deliver real value to products
 
 ---
 
