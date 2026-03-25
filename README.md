@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎯 Backend Developer Intern
+* 🎯 Backend Developer
 * 💡 Passionate about building scalable systems & clean architecture
 * 📚 Strong foundation in **OOP, Data Structures & Algorithms**
 * 🚀 Currently improving **System Design & Advanced Backend Skills**
